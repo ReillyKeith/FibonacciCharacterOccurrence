@@ -23,7 +23,7 @@ Fibonacci Num:  | Len
 5  | 1
 8  | 1
 
-= 7 occurrences of len 1
+**= 7 occurrences of len 1**
 
 Fibonacci Num:  | Len
 ------------- | -------------
@@ -33,7 +33,7 @@ Fibonacci Num:  | Len
 55  | 2
 89  | 2
 
-= 5 occurrences of len 2
+**= 5 occurrences of len 2**
 
 and so on ....
 
