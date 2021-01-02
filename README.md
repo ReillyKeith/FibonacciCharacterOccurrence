@@ -13,33 +13,25 @@
 
 # Sequence example:
 
--Fibonacci Num: 0
-: Len:1
--Fibonacci Num: 1
-: Len:1
--Fibonacci Num: 1
-: Len:1
--Fibonacci Num: 2
-: Len:1
--Fibonacci Num: 3
-: Len:1
--Fibonacci Num: 5
-: Len:1
--Fibonacci Num: 8
-: Len:1
+Fibonacci Num:  | Len
+------------- | -------------
+0  | 1
+1  | 1
+1  | 1
+2  | 1
+3  | 1
+5  | 1
+8  | 1
 
 = 7 occurrences of len 1
 
--Fibonacci Num: 13
-: Len:2
--Fibonacci Num: 21
-: Len:2
--Fibonacci Num: 34
-: Len:2
--Fibonacci Num: 55
-: Len:2
--Fibonacci Num: 89
-: Len:2
+Fibonacci Num:  | Len
+------------- | -------------
+13  | 2
+21  | 2
+34  | 2
+55  | 2
+89  | 2
 
 = 5 occurrences of len 2
 
